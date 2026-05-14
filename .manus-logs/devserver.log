@@ -1,0 +1,97 @@
+[2026-05-12T07:03:19.442Z] Starting dev server with command: pnpm run dev
+[2026-05-12T07:03:22.444Z] 
+[2026-05-12T07:03:22.444Z] > marshal-medical-centre@1.0.0 dev /home/ubuntu/marshal-medical-centre
+[2026-05-12T07:03:22.445Z] > vite --host
+[2026-05-12T07:03:22.445Z] 
+[2026-05-12T07:03:23.223Z] 
+[2026-05-12T07:03:23.224Z] VITE v7.1.9  ready in 731 ms
+[2026-05-12T07:03:23.225Z] 
+[2026-05-12T07:03:23.225Z] ➜  Local:   http://localhost:3000/
+[2026-05-12T07:03:23.226Z] ➜  Network: http://169.254.0.21:3000/
+[2026-05-12T07:05:39.642Z] 3:05:39 AM [vite] (client) page reload index.html
+[2026-05-12T07:09:10.032Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-05-12T07:09:12.952Z] 3:09:12 AM [vite] (client) ✨ new dependencies optimized: framer-motion
+[2026-05-12T07:09:12.953Z] 3:09:12 AM [vite] (client) ✨ optimized dependencies changed. reloading
+[2026-05-12T07:30:07.853Z] 3:30:07 AM [vite] changed tsconfig file detected: /home/ubuntu/marshal-medical-centre/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-05-12T07:30:07.858Z] 3:30:07 AM [vite] vite.config.ts changed, restarting server...
+[2026-05-12T07:30:07.859Z] 3:30:07 AM [vite] (client) page reload index.html
+[2026-05-12T07:30:07.859Z] 3:30:07 AM [vite] (client) page reload public/.gitkeep
+[2026-05-12T07:30:07.860Z] 3:30:07 AM [vite] (client) page reload public/__manus__/debug-collector.js
+[2026-05-12T07:30:07.860Z] 3:30:07 AM [vite] (client) page reload src/App.tsx
+[2026-05-12T07:30:07.860Z] 3:30:07 AM [vite] (client) page reload src/components/ErrorBoundary.tsx
+[2026-05-12T07:30:07.861Z] 3:30:07 AM [vite] (client) page reload src/components/ManusDialog.tsx
+[2026-05-12T07:30:07.861Z] 3:30:07 AM [vite] (client) page reload src/components/Map.tsx
+[2026-05-12T07:30:07.862Z] 3:30:07 AM [vite] (client) page reload src/components/ui/accordion.tsx
+[2026-05-12T07:30:07.862Z] 3:30:07 AM [vite] (client) page reload src/components/ui/alert-dialog.tsx
+[2026-05-12T07:30:07.862Z] 3:30:07 AM [vite] (client) page reload src/components/ui/alert.tsx
+[2026-05-12T07:30:07.863Z] 3:30:07 AM [vite] (client) page reload src/components/ui/aspect-ratio.tsx
+[2026-05-12T07:30:07.863Z] 3:30:07 AM [vite] (client) page reload src/components/ui/avatar.tsx
+[2026-05-12T07:30:07.863Z] 3:30:07 AM [vite] (client) page reload src/components/ui/badge.tsx
+[2026-05-12T07:30:07.864Z] 3:30:07 AM [vite] (client) page reload src/components/ui/breadcrumb.tsx
+[2026-05-12T07:30:07.864Z] 3:30:07 AM [vite] (client) page reload src/components/ui/button-group.tsx
+[2026-05-12T07:30:07.865Z] 3:30:07 AM [vite] (client) page reload src/components/ui/button.tsx
+[2026-05-12T07:30:07.865Z] 3:30:07 AM [vite] (client) page reload src/components/ui/calendar.tsx
+[2026-05-12T07:30:07.865Z] 3:30:07 AM [vite] (client) page reload src/components/ui/card.tsx
+[2026-05-12T07:30:07.866Z] 3:30:07 AM [vite] (client) page reload src/components/ui/carousel.tsx
+[2026-05-12T07:30:07.866Z] 3:30:07 AM [vite] (client) page reload src/components/ui/chart.tsx
+[2026-05-12T07:30:07.866Z] 3:30:07 AM [vite] (client) page reload src/components/ui/checkbox.tsx
+[2026-05-12T07:30:07.867Z] 3:30:07 AM [vite] (client) page reload src/components/ui/collapsible.tsx
+[2026-05-12T07:30:07.867Z] 3:30:07 AM [vite] (client) page reload src/components/ui/command.tsx
+[2026-05-12T07:30:07.868Z] 3:30:07 AM [vite] (client) page reload src/components/ui/context-menu.tsx
+[2026-05-12T07:30:07.868Z] 3:30:07 AM [vite] (client) page reload src/components/ui/dialog.tsx
+[2026-05-12T07:30:07.869Z] 3:30:07 AM [vite] (client) page reload src/components/ui/drawer.tsx
+[2026-05-12T07:30:07.869Z] 3:30:07 AM [vite] (client) page reload src/components/ui/dropdown-menu.tsx
+[2026-05-12T07:30:07.869Z] 3:30:07 AM [vite] (client) page reload src/components/ui/empty.tsx
+[2026-05-12T07:30:07.870Z] 3:30:07 AM [vite] (client) page reload src/components/ui/field.tsx
+[2026-05-12T07:30:07.870Z] 3:30:07 AM [vite] (client) page reload src/components/ui/form.tsx
+[2026-05-12T07:30:07.870Z] 3:30:07 AM [vite] (client) page reload src/components/ui/hover-card.tsx
+[2026-05-12T07:30:07.871Z] 3:30:07 AM [vite] (client) page reload src/components/ui/input-group.tsx
+[2026-05-12T07:30:07.871Z] 3:30:07 AM [vite] (client) page reload src/components/ui/input-otp.tsx
+[2026-05-12T07:30:07.871Z] 3:30:07 AM [vite] (client) page reload src/components/ui/input.tsx
+[2026-05-12T07:30:07.872Z] 3:30:07 AM [vite] (client) page reload src/components/ui/item.tsx
+[2026-05-12T07:30:07.872Z] 3:30:07 AM [vite] (client) page reload src/components/ui/kbd.tsx
+[2026-05-12T07:30:07.873Z] 3:30:07 AM [vite] (client) page reload src/components/ui/label.tsx
+[2026-05-12T07:30:07.873Z] 3:30:07 AM [vite] (client) page reload src/components/ui/menubar.tsx
+[2026-05-12T07:30:07.874Z] 3:30:07 AM [vite] (client) page reload src/components/ui/navigation-menu.tsx
+[2026-05-12T07:30:07.874Z] 3:30:07 AM [vite] (client) page reload src/components/ui/pagination.tsx
+[2026-05-12T07:30:07.874Z] 3:30:07 AM [vite] (client) page reload src/components/ui/popover.tsx
+[2026-05-12T07:30:07.875Z] 3:30:07 AM [vite] (client) page reload src/components/ui/progress.tsx
+[2026-05-12T07:30:07.875Z] 3:30:07 AM [vite] (client) page reload src/components/ui/radio-group.tsx
+[2026-05-12T07:30:07.875Z] 3:30:07 AM [vite] (client) page reload src/components/ui/resizable.tsx
+[2026-05-12T07:30:07.876Z] 3:30:07 AM [vite] (client) page reload src/components/ui/scroll-area.tsx
+[2026-05-12T07:30:07.876Z] 3:30:07 AM [vite] (client) page reload src/components/ui/select.tsx
+[2026-05-12T07:30:07.876Z] 3:30:07 AM [vite] (client) page reload src/components/ui/separator.tsx
+[2026-05-12T07:30:07.877Z] 3:30:07 AM [vite] (client) page reload src/components/ui/sheet.tsx
+[2026-05-12T07:30:07.877Z] 3:30:07 AM [vite] (client) page reload src/components/ui/sidebar.tsx
+[2026-05-12T07:30:07.877Z] 3:30:07 AM [vite] (client) page reload src/components/ui/skeleton.tsx
+[2026-05-12T07:30:07.878Z] 3:30:07 AM [vite] (client) page reload src/components/ui/slider.tsx
+[2026-05-12T07:30:07.878Z] 3:30:07 AM [vite] (client) page reload src/components/ui/sonner.tsx
+[2026-05-12T07:30:07.878Z] 3:30:07 AM [vite] (client) page reload src/components/ui/spinner.tsx
+[2026-05-12T07:30:07.879Z] 3:30:07 AM [vite] (client) page reload src/components/ui/switch.tsx
+[2026-05-12T07:30:07.879Z] 3:30:07 AM [vite] (client) page reload src/components/ui/table.tsx
+[2026-05-12T07:30:07.880Z] 3:30:07 AM [vite] (client) page reload src/components/ui/tabs.tsx
+[2026-05-12T07:30:07.880Z] 3:30:07 AM [vite] (client) page reload src/components/ui/textarea.tsx
+[2026-05-12T07:30:07.880Z] 3:30:07 AM [vite] (client) page reload src/components/ui/toggle-group.tsx
+[2026-05-12T07:30:07.881Z] 3:30:07 AM [vite] (client) page reload src/components/ui/toggle.tsx
+[2026-05-12T07:30:07.881Z] 3:30:07 AM [vite] (client) page reload src/components/ui/tooltip.tsx
+[2026-05-12T07:30:07.881Z] 3:30:07 AM [vite] (client) page reload src/components/Navigation.tsx
+[2026-05-12T07:30:07.882Z] 3:30:07 AM [vite] (client) page reload src/components/Footer.tsx
+[2026-05-12T07:30:07.882Z] 3:30:07 AM [vite] (client) page reload src/const.ts
+[2026-05-12T07:30:07.882Z] 3:30:07 AM [vite] (client) page reload src/contexts/ThemeContext.tsx
+[2026-05-12T07:30:07.883Z] 3:30:07 AM [vite] (client) page reload src/hooks/useComposition.ts
+[2026-05-12T07:30:07.883Z] 3:30:07 AM [vite] (client) page reload src/hooks/useMobile.tsx
+[2026-05-12T07:30:07.884Z] 3:30:07 AM [vite] (client) page reload src/hooks/usePersistFn.ts
+[2026-05-12T07:30:07.884Z] 3:30:07 AM [vite] (client) hmr update /src/index.css
+[2026-05-12T07:30:07.884Z] 3:30:07 AM [vite] (client) page reload src/lib/utils.ts
+[2026-05-12T07:30:07.885Z] 3:30:07 AM [vite] (client) page reload src/main.tsx
+[2026-05-12T07:30:07.885Z] 3:30:07 AM [vite] (client) page reload src/pages/About.tsx
+[2026-05-12T07:30:07.885Z] 3:30:07 AM [vite] (client) page reload src/pages/Home.tsx
+[2026-05-12T07:30:07.886Z] 3:30:07 AM [vite] (client) page reload src/pages/NotFound.tsx
+[2026-05-12T07:30:07.886Z] 3:30:07 AM [vite] (client) page reload src/pages/Services.tsx
+[2026-05-12T07:30:07.886Z] 3:30:07 AM [vite] (client) page reload src/pages/Doctors.tsx
+[2026-05-12T07:30:07.887Z] 3:30:07 AM [vite] (client) page reload src/pages/Appointment.tsx
+[2026-05-12T07:30:07.887Z] 3:30:07 AM [vite] (client) page reload src/pages/Contact.tsx
+[2026-05-12T07:30:07.891Z] 3:30:07 AM [vite] server restarted.
+[2026-05-12T07:30:07.891Z] 
+[2026-05-12T07:30:07.891Z] ➜  Local:   http://localhost:5173/
+[2026-05-12T07:30:07.892Z] ➜  Network: http://169.254.0.21:5173/
